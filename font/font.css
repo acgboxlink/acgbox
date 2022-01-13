@@ -1,0 +1,151 @@
+@font-face {
+  font-family: "io"; 
+  src: url('https://cdn.jsdelivr.net/gh/acgboxlink/acgbox/font/01.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/acgboxlink/acgbox/font/02.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/acgboxlink/acgbox/font/03.ttf') format('truetype');
+}
+
+.io {
+  font-family: "io" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.io-DownloadOutline:before {
+  content: "\e6a4";
+}
+
+.io-VideoOutline:before {
+  content: "\e6a2";
+}
+
+.io-GameOutline:before {
+  content: "\e66c";
+}
+
+.io-GuideOutline:before {
+  content: "\e671";
+}
+
+.io-ListOutline:before {
+  content: "\e674";
+}
+
+.io-MusicOutline:before {
+  content: "\e677";
+}
+
+.io-NoticeOutline:before {
+  content: "\e678";
+}
+
+.io-PhotoOutline:before {
+  content: "\e67d";
+}
+
+.io-ReferOutline:before {
+  content: "\e67e";
+}
+
+.io-RepairOutline:before {
+  content: "\e67f";
+}
+
+.io-SchemeOutline:before {
+  content: "\e680";
+}
+
+.io-WatchOutline:before {
+  content: "\e683";
+}
+
+.io-TrashOutline:before {
+  content: "\e682";
+}
+
+.io-WriteOutline:before {
+  content: "\e684";
+}
+
+.io-CoffeeOutline:before {
+  content: "\e685";
+}
+
+.io-PokeOutline:before {
+  content: "\e687";
+}
+
+.io-RefrigeratorOutline:before {
+  content: "\e688";
+}
+
+.io-TrophyOutline:before {
+  content: "\e689";
+}
+
+.io-RocketOutline:before {
+  content: "\e68a";
+}
+
+.io-GhostOutline:before {
+  content: "\e68b";
+}
+
+.io-BooksOutline:before {
+  content: "\e68c";
+}
+
+.io-TablelampOutline:before {
+  content: "\e68d";
+}
+
+.io-HolidayOutline:before {
+  content: "\e68e";
+}
+
+.io-FolkOutline:before {
+  content: "\e68f";
+}
+
+.io-AirplaneOutline:before {
+  content: "\e690";
+}
+
+.io-AdvisorylOutline:before {
+  content: "\e692";
+}
+
+.io-CompassOutline:before {
+  content: "\e694";
+}
+
+.io-MagicOutline:before {
+  content: "\e699";
+}
+
+.io-PlayOutline:before {
+  content: "\e6a9";
+}
+
+.io-PlanetOutline:before {
+  content: "\e6ad";
+}
+
+.io-EvenmoreOutline:before {
+  content: "\e6ae";
+}
+
+.io-WeatherOutline:before {
+  content: "\e6af";
+}
+
+.io-EarphoneOutline:before {
+  content: "\e6b0";
+}
+
+.io-PillOutline:before {
+  content: "\e6b1";
+}
+
